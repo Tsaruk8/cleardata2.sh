@@ -1,0 +1,1 @@
+# cleardata2.sh
